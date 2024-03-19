@@ -22,7 +22,7 @@ int printPerfectSquares(int n) {
 }
 
 int main() {
-    int n;
+    int n = 19;
     scanf("%d", &n);
 
     // Gọi hàm để in ra các số chính phương nhỏ hơn n
